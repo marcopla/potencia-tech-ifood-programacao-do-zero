@@ -1,5 +1,6 @@
 # **Potência Tech iFood - Programação do Zero**
-<img src="img\curso-img.png" width="400" height="200">
+
+<img src="img\curso.png" width="400" height="200">
 
 Tipo: Bootcamp
 
